@@ -10,7 +10,10 @@
 </h1>
 
 <h3 align="left">I'm Henry — a passionate Full Stack Web Developer</h3> 
-<img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif" alt="Programming"/>
+<!-- <img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif" alt="Programming"/> -->
+![0*KKiBtagLDo4Xo5SN](https://github.com/user-attachments/assets/ffb70ecb-824e-438e-b97d-b185d61b0a16)
+
+
 
 - 🔭 I’m currently working on **AI-powered blueprint generation → 3D modeling → Unity walkthroughs**
 
