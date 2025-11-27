@@ -1,7 +1,9 @@
 <!-- <div>
   <img src="./assets/githubBanner.png" alt="Adhik's Banner" width="100%" height="auto" />
 </div> -->
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Henry%20sam%20moses%20D
+div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Henry%20sam%20moses%20D" alt="Henry Sam Moses D Banner" width="100%" height="auto" />
+</div> 
 
 <h1 align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=089CFF&center=true&width=600&height=60&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Adhik" alt="Typing SVG" /> -->
