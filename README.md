@@ -1,7 +1,7 @@
 <!-- <div>
   <img src="./assets/githubBanner.png" alt="Adhik's Banner" width="100%" height="auto" />
 </div> -->
-div>
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Henry%20sam%20moses%20D" alt="Henry Sam Moses D Banner" width="100%" height="auto" />
 </div> 
 
