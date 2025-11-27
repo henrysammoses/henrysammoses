@@ -52,12 +52,6 @@
 
 <!-- Pac-Man GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man eating contributions" />
+  <img src="https://raw.githubusercontent.com/henrysammoses/henrysammoses/main/dist/github-contribution-grid-snake.svg" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrysammoses/henrysammoses/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrysammoses/henrysammoses/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henrysammoses/henrysammoses/output/pacman-contribution-graph.svg">
-</picture>
 

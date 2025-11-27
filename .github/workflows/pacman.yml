@@ -1,0 +1,32 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man / Snake graph
+        uses: Platane/snk@master
+        with:
+          github_user_name: henrysammoses
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "Generate animation"
+          add: "dist"
