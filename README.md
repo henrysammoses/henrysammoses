@@ -1,8 +1,7 @@
 <!-- <div>
   <img src="./assets/githubBanner.png" alt="Adhik's Banner" width="100%" height="auto" />
 </div> -->
-![WhatsApp Image 2025-11-27 at 10 35 24](https://github.com/user-attachments/assets/2920008e-3cc4-4ad8-8413-6fc65ad1b4ba)
-
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Henry%20sam%20moses%20D
 
 <h1 align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=089CFF&center=true&width=600&height=60&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Adhik" alt="Typing SVG" /> -->
