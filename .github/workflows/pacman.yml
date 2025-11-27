@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -11,22 +11,21 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man / Snake graph
-        uses: Platane/snk@master
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: henrysammoses
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          author_name: github-actions
-          author_email: actions@github.com
-          message: "Generate animation"
-          add: "dist"
+          commit_message: "Generated Snake Animation"
+          branch: main
