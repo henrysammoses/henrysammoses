@@ -11,8 +11,7 @@
 
 <h3 align="left">I'm Henry — a passionate Full Stack Web Developer</h3> 
 <!-- <img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif" alt="Programming"/> -->
-![0*KKiBtagLDo4Xo5SN](https://github.com/user-attachments/assets/ffb70ecb-824e-438e-b97d-b185d61b0a16)
-
+![gif](https://github.com/user-attachments/assets/ffb70ecb-824e-438e-b97d-b185d61b0a16)
 
 
 - 🔭 I’m currently working on **AI-powered blueprint generation → 3D modeling → Unity walkthroughs**
@@ -45,10 +44,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=henrysammoses&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=henrysammoses&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=henrysammoses&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5)](https://github.com/Adhik-6/github-profile-trophy)
 
